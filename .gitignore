@@ -1,0 +1,15 @@
+build*/
+bin/
+obj/
+dist/
+
+*.clap
+*.dll
+*.exe
+*.lib
+*.obj
+*.pdb
+*.user
+
+.vs/
+.cache/
